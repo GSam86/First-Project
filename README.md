@@ -1,2 +1,1 @@
-# First-Project
-First Project for CCC
+# This is a practice project for CCC.
